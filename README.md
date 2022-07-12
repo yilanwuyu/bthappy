@@ -18,7 +18,7 @@ yum install wget -y && wget -O auto_disk.sh https://raw.githubusercontent.com/yi
 
 下载 7.7.0 版本更新包
 
-wget https://github.com/yilanwuyu/bthappy/Releases/download/7.7.0/LinuxPanel-7.7.0.zip
+wget https://github.com/yilanwuyu/bthappy/releases/download/Releases/LinuxPanel-7.7.0.zip
 解压
 
 unzip LinuxPanel-7.7.0.zip
